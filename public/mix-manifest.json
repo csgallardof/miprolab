@@ -1,0 +1,22 @@
+{
+    "/cn-assets/plugins/highlight/highlight.min.js": "/cn-assets/plugins/highlight/highlight.min.js",
+    "/cn-assets/plugins/switchery/switchery.min.js": "/cn-assets/plugins/switchery/switchery.min.js",
+    "/cn-assets/js/bundle.js": "/cn-assets/js/bundle.js",
+    "/cn-assets/plugins/sweetalert/sweetalert.min.js": "/cn-assets/plugins/sweetalert/sweetalert.min.js",
+    "/cn-assets/plugins/nvd3/nvd3.min.js": "/cn-assets/plugins/nvd3/nvd3.min.js",
+    "/cn-assets/css/bundle.css": "/cn-assets/css/bundle.css",
+    "/cn-assets/plugins/nvd3/nvd3.min.css": "/cn-assets/plugins/nvd3/nvd3.min.css",
+    "/cn-assets/plugins/jquery-jvectormap/jquery-jvectormap.min.css": "/cn-assets/plugins/jquery-jvectormap/jquery-jvectormap.min.css",
+    "/cn-assets/plugins/jquery-jvectormap/jquery-jvectormap.min.js": "/cn-assets/plugins/jquery-jvectormap/jquery-jvectormap.min.js",
+    "/cn-assets/plugins/jquery-sparkline/jquery.sparkline.min.js": "/cn-assets/plugins/jquery-sparkline/jquery.sparkline.min.js",
+    "/cn-assets/plugins/bootstrap-social/bootstrap-social.css": "/cn-assets/plugins/bootstrap-social/bootstrap-social.css",
+    "/cn-assets/plugins/introjs/introjs.css": "/cn-assets/plugins/introjs/introjs.css",
+    "/cn-assets/plugins/introjs/introjs-rtl.css": "/cn-assets/plugins/introjs/introjs-rtl.css",
+    "/cn-assets/plugins/introjs/intro.js": "/cn-assets/plugins/introjs/intro.js",
+    "/cn-assets/plugins/morris/raphael.min.js": "/cn-assets/plugins/morris/raphael.min.js",
+    "/cn-assets/plugins/morris/raphael.js": "/cn-assets/plugins/morris/raphael.js",
+    "/cn-assets/plugins/morris/morris.css": "/cn-assets/plugins/morris/morris.css",
+    "/cn-assets/plugins/morris/morris.js": "/cn-assets/plugins/morris/morris.js",
+    "/cn-assets/plugins/morris/morris.min.js": "/cn-assets/plugins/morris/morris.min.js",
+    "/cn-assets/plugins/jquery.maskedinput": "/cn-assets/plugins/jquery.maskedinput"
+}

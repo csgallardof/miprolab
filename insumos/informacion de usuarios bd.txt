@@ -1,0 +1,11 @@
+Usuario administrador
+
+usuario: csgallardof@gmail.com
+pass: 022676300
+
+
+
+usuario institucion
+
+usuario: cguanochanga@mipro.gob.ec
+pass: MIPjca1756
